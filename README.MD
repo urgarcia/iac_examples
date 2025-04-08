@@ -1,4 +1,3 @@
-```markdown
 # Terraform Learning Projects 🏗️
 
 Repositorio con proyectos prácticos para aprender Terraform. Cada proyecto implementa infraestructura como código (IaC) en AWS/Azure/GCP* (*personalizable) con diferentes niveles de complejidad.
